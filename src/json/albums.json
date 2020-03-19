@@ -1,0 +1,52 @@
+[
+    {
+        "name": "ジョジョ～その血の運命",
+        "singer": "富永TOMMY弘明",
+        "uri":"https://www.youtube.com/watch?v=7jrKjkrX3Gw",
+        "image": "https://ih0.redbubble.net/image.488889786.3838/ap,550x550,16x12,1,transparent,t.u7.png",
+        "image2": "https://m.media-amazon.com/images/I/81NStv5eISL._SS500_.jpg"
+    },
+    {
+        "name": "BLOODY STREAM",
+        "singer": "Coda",
+        "uri":"https://youtu.be/lgH23pGZHA4",
+        "image": "https://ih0.redbubble.net/image.488889786.3838/ap,550x550,16x12,1,transparent,t.u7.png",
+        "image2": "https://i.kfs.io/album/global/20472930,0v2/fit/500x500.jpg"
+    },
+    {
+        "name": "STAND PROUD",
+        "singer": "橋本仁",
+        "uri":"https://www.youtube.com/watch?v=84nwUEIMQr8",
+        "image": "https://ih0.redbubble.net/image.488889786.3838/ap,550x550,16x12,1,transparent,t.u7.png",
+        "image2": "https://pm1.narvii.com/6363/985a675e85759d89b1ae91774e8850c773472066_hq.jpg"
+    },
+    {
+        "name": "ジョジョ その血の記憶 ～end of THE WORLD～",
+        "singer": "JO☆STARS ～TOMMY,Coda,JIN～",
+        "uri":"https://www.youtube.com/watch?v=ekgPDRTyriY",
+        "image": "https://ih0.redbubble.net/image.488889786.3838/ap,550x550,16x12,1,transparent,t.u7.png",
+        "image2": "https://www.nautiljon.com/images/cd/00/92/jojo_sono_chi_no_kioku_end_of_the_world_67529.jpg?1535039095"
+    },
+    {
+        "name": "Great Days",
+        "singer": "青木花戀、長谷川大輔",
+        "uri":"https://www.youtube.com/watch?v=uX3IZ80dXsU",
+        "image": "https://ih0.redbubble.net/image.488889786.3838/ap,550x550,16x12,1,transparent,t.u7.png",
+        "image2": "https://y.gtimg.cn/music/photo_new/T002R800x800M000002MKHuH2KImRY.jpg"
+    },
+    {
+        "name": "Fighting Gold",
+        "singer": "Coda",
+        "uri":"https://www.youtube.com/watch?v=1w_uufUG9Ac",
+        "image": "https://ih0.redbubble.net/image.488889786.3838/ap,550x550,16x12,1,transparent,t.u7.png",
+        "image2": "https://y.gtimg.cn/music/photo_new/T002R800x800M000002q4amt0djXpj.jpg"
+    },
+    {
+        "name": "裏切り者のレクイエム",
+        "singer": "長谷川大輔",
+        "uri":"https://www.youtube.com/watch?v=fqBNnC_apV4",
+        "image": "https://ih0.redbubble.net/image.488889786.3838/ap,550x550,16x12,1,transparent,t.u7.png",
+        "image2": "https://pbs.twimg.com/media/D31nRHRX4AM7vNE?format=png&name=900x900"
+    }
+
+]
